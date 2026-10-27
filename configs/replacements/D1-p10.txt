@@ -1,0 +1,39 @@
+BAB III
+
+MEKANISME PENYALURAN BANTUAN SOSIAL PKH PLUS
+
+A. Pembukaan Rekening
+
+Pembukaan rekening bantuan sosial PKH Plus dilakukan secara kolektif oleh Bank Jatim berdasarkan data penerima manfaat yang dikirim oleh Dinas Sosial Provinsi Jawa Timur sesuai SK penetapan Gubernur Jawa Timur.
+
+NO | KEGIATAN | ALUR DAN PELAKSANAAN: Dinas Sosial Provinsi; Bank Jatim; Pendamping Sosial; Penerima Manfaat
+
+1 | KEGIATAN: Penyiapan Data BNBA (By Name by Address) Penerima Manfaat | ALUR: START pada Dinas Sosial Provinsi; KYC pada Pendamping Sosial; panah dua arah antara START dan KYC; dari KYC ke kotak Penerima Manfaat pada baris 2.
+
+2 | KEGIATAN: Verifikasi Data KYC Eligible Penerima Manfaat | ALUR: Valid? pada Bank Jatim; Tidak kembali ke START Dinas Sosial Provinsi; Ya menuju baris 3 Bank Jatim.
+
+3 | KEGIATAN: Pembukaan Rekening Penerima Bantuan sosial Secara Kolektif | ALUR: dokumen pada Bank Jatim; panah menuju baris 4 Bank Jatim.
+
+4 | KEGIATAN: Pencetakan Buku Tabungan Penerima Manfaat | ALUR: dokumen pada Bank Jatim; panah menuju baris 5 Bank Jatim; panah kembali ke START Dinas Sosial Provinsi.
+
+5 | KEGIATAN: Penyerahan Buku Tabungan dan Pengisian Surat Kuasa | ALUR: kotak Bank Jatim menuju kotak Penerima Manfaat; kotak Bank Jatim menuju END Dinas Sosial Provinsi pada baris 6.
+
+6 | KEGIATAN: Laporan Pembukaan Rekening Kolektif Penerima Manfaat | ALUR: END pada Dinas Sosial Provinsi.
+
+Penjelasan Alur:
+
+NO: 1 | KEGIATAN: Penyiapan data BNBA (By Name by Address) penerima manfaat
+
+PENJELASAN: Dinas Sosial Provinsi menyiapkan data penerima manfaat yang akan diproses pembukaan rekening oleh Bank Jatim sesuai yang telah ditetapkan dalam SK Gubernur.
+
+PIHAK TERKAIT: 1. Dinas Sosial Provinsi; 2. Dinas/Instansi Sosial Kabupaten/Kota.
+
+NO: 2 | KEGIATAN: Verifikasi data KYC eligible penerima manfaat
+
+PENJELASAN:
+
+a. Bank Jatim melakukan verifikasi data Know Your Customer (KYC)
+
+b. Data penerima manfaat yang tidak memenuhi KYC dikembalikan kepada Dinas Sosial Provinsi untuk selanjutnya dilakukan perbaikan data oleh Dinas/Instansi Sosial Kab/Kota
+
+PIHAK TERKAIT: 1. Bank Jatim; 2. Dinas Sosial Provinsi; 3. Dinas/Instansi Kab/Kota.

@@ -1,0 +1,37 @@
+NO | KEGIATAN | ALUR DAN PELAKSANAAN: Dinas Sosial Provinsi; Bank Jatim; BPKAD; Penerima Manfaat
+
+1 | KEGIATAN: Pengajuan Surat Perintah Membayar (SPM) oleh Dinsos Provinsi ke BPKAD ke Rekening Bendahara Dinsos Provinsi | ALUR: START pada Dinas Sosial Provinsi menuju kotak BPKAD.
+
+2 | KEGIATAN: Penerbitan SP2D oleh BPKAD | ALUR: kotak BPKAD dari baris 1 menuju kotak BPKAD pada baris 2, kemudian ke Dinas Sosial Provinsi pada baris 3.
+
+3 | KEGIATAN: Bantuan sosial masuk ke Rekening Bendahara Dinas Sosial Provinsi | ALUR: kotak Dinas Sosial Provinsi menuju kotak Bank Jatim pada baris 4.
+
+4 | KEGIATAN: Standing Instruction Pemindahbukuan dari Rekening Bendahara ke Rek Penerima Manfaat | ALUR: kotak Bank Jatim menuju dokumen Bank Jatim pada baris 5.
+
+5 | KEGIATAN: Pemindahbukuan Dana Bantuan sosial ke Rekening Penerima Manfaat | ALUR: dokumen Bank Jatim menuju END Penerima Manfaat pada baris 6.
+
+6 | KEGIATAN: Penyaluran dana Bantuan sosial Penerima Manfaat | ALUR: END pada Penerima Manfaat.
+
+Penjelasan Alur Penyaluran Bantuan Sosial PKH Plus
+
+NO: 1 | KEGIATAN: Pengajuan Surat Perintah Membayar (SPM) bantuan sosial ke Rekening Bendahara Dinas Sosial Provinsi Jawa Timur
+
+PENJELASAN:
+
+a. Dinas Sosial Provinsi mengajukan SPM bantuan sosial ke BPKAD yang ditujukan ke Rekening Bendahara Dinas Sosial Provinsi
+
+b. Jumlah nominal bantuan sosial yang diajukan dalam SPM sebesar jumlah nilai bantuan sosial per tahap dikalikan jumlah rekap data Penerima Manfaat yang Eligible sesuai data Hasil Validasi atau Pemutakhiran Data Penerima Manfaat
+
+c. Pemutakhiran Data sebagaimana dimaksud pada huruf b dituangkan dalam Berita Acara Pemutakhiran Data Lansia.
+
+PIHAK TERKAIT: 1. Dinas Sosial Provinsi; 2. BPKAD.
+
+NO: 2 | KEGIATAN: Penerbitan Surat Perintah Penyaluran Dana (SP2D)
+
+PENJELASAN:
+
+a. BPKAD menerbitkan SP2D berdasarkan SPM yang diajukan oleh Dinas Sosial Provinsi, paling lambat dua hari kerja sejak SPM diajukan.
+
+b. BPKAD mengirimkan SP2D kepada Dinas Sosial Provinsi. Terbitnya SP2D sebagai tanda bahwa SPM telah disetujui dan dana Bantuan sosial masuk ke rekening Bendahara Dinas Sosial Provinsi.
+
+PIHAK TERKAIT: 1. BPKAD; 2. Dinas Sosial Provinsi.

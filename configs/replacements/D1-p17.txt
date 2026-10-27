@@ -1,0 +1,37 @@
+NO | KEGIATAN | PENJELASAN | PIHAK TERKAIT
+
+PENJELASAN (lanjutan):
+
+k. Apabila penyaluran dana bantuan sebagaimana pada huruf (k) tidak dapat dilakukan maka Bank Jatim menyalurkan bantuan secara kunjungan ke rumah penerima manfaat.
+
+D. Rekonsiliasi Penyaluran Bantuan Sosial PKH Plus
+
+Rekonsiliasi penyaluran bantuan sosial PKH Plus diawali dengan proses pencatatan realisasi penyaluran bantuan sosial PKH Plus oleh Pendamping Sosial. Selanjutnya data hasil pencatatan realisasi penyaluran bantuan sosial PKH Plus dilakukan sinkronisasi untuk tujuan pembuatan rekonsiliasi penyaluran bantuan sosial PKH Plus.
+
+NO | KEGIATAN | ALUR DAN PELAKSANAAN: Pendamping Sosial; Dinsos Kabupaten/Kota; Bank Jatim; Dinas Sosial Provinsi
+
+1 | KEGIATAN: Pencatatan Realisasi Penyaluran Bantuan Sosial | ALUR: START pada Pendamping Sosial; panah dua arah dengan kotak Bank Jatim; START menuju kotak Pendamping Sosial pada baris 2.
+
+2 | KEGIATAN: Pembuatan Berita Acara Realisasi Penyaluran Bantuan sosial | ALUR: kotak Pendamping Sosial menuju kotak Dinsos Kabupaten/Kota; kotak Bank Jatim pada baris 1 menuju kotak Dinsos Kabupaten/Kota pada baris 2.
+
+3 | KEGIATAN: Rekonsiliasi Penyaluran Bantuan sosial Tingkat Kabupaten/Kota | ALUR: kotak Dinsos Kabupaten/Kota pada baris 2 menuju kotak Dinsos Kabupaten/Kota pada baris 3; kotak Bank Jatim pada baris 1 menuju kotak Bank Jatim pada baris 3; panah dua arah antara kedua kotak baris 3.
+
+4 | KEGIATAN: Rekonsiliasi Penyaluran Bantuan sosial Tingkat Provinsi | ALUR: kotak Dinsos Kabupaten/Kota dan kotak Bank Jatim pada baris 3 menuju END pada Dinas Sosial Provinsi.
+
+Penjelasan Rekonsiliasi Penyaluran Bantuan Sosial PKH Plus
+
+NO: 1 | KEGIATAN: Pencatatan Realisasi Penyaluran Bantuan Sosial
+
+PIHAK TERKAIT: 1. Dinas/Instansi Sosial Kabupaten/Kota; 2. Koordinator Kabupaten/Kota; 3. Pendamping Sosial; 4. Petugas Bank Jatim; 5. Lansia/KPM.
+
+PENJELASAN:
+
+1. Pendamping Sosial menyiapkan daftar hadir Realisasi Penyaluran bantuan untuk tiap tahap penyaluran
+
+2. Pendamping Sosial meminta Penerima manfaat yang telah mencairkan bantuannya untuk membubuhkan tanda tangan atau cap jari pada daftar hadir penyaluran bantuan pada tiap tahap penyaluran
+
+3. Pendamping Sosial melakukan pencatatan pada buku kontrol penyaluran dana Bantuan sosial, meliputi:
+
+• Kehadiran Lansia
+
+• Nama Lansia

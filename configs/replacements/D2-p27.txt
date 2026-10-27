@@ -1,0 +1,58 @@
+Lampiran 3: Form Berita Acara Bansos ASPD yang tersalurkan dan tidak tersalurkan
+
+KOP DINAS KAB/KOTA
+
+BERITA ACARA
+BNBA PENERIMA MANFAAT BANTUAN SOSIAL ASISTENSI SOSIAL PENYANDANG DISABILITAS (ASPD) YANG TERSALURKAN DAN TIDAK TERSALURKAN
+TAHUN 2026
+
+Pada hari ini, ... tanggal ... bulan ... tahun 2026 telah dilaksanakan pemutakhiran data dan penyaluran Penerima Manfaat Bantuan Sosial untuk Disabilitas Kegiatan Program Asistensi Sosial Penyandang Disabilitas (ASPD) yang tersalurkan dan tidak tersalurkan di Kabupaten/Kota... dengan hasil berikut:
+
+Kolom formulir (sesuai urutan sumber): NO | KECAMATAN | PEMINDAH BUKUAN (SP2D) - PM | PEMINDAH BUKUAN (SP2D) - JUMLAH BANTUAN | REALISASI (TERSALURKAN) - PM | REALISASI (TERSALURKAN) - JUMLAH BANTUAN | TIDAK TERSALURKAN - PM | TIDAK TERSALURKAN - JUMLAH BANTUAN.
+
+Baris NO: 1, 2, ... . Sel isian kolom 2 sampai 8 pada setiap baris: [kosong].
+JUMLAH KESELURUHAN: seluruh sel jumlah pada kolom 3 sampai 8 [kosong].
+
+Dengan jumlah rekapitulasi data hasil verifikasi dan pemutakhiran data sebagai berikut (BNBA terlampir):
+
+NO: 1 | URAIAN: Jumlah Disabilitas Penerima Manfaat (PM) Eligible | JUMLAH: [kosong]
+
+NO: 2 | URAIAN: Jumlah Disabilitas Penerima Manfaat (PM) Non Eligible | JUMLAH: [kosong]
+
+a. Data Duplikasi | JUMLAH: [kosong]
+
+b. Meninggal Dunia | JUMLAH: [kosong]
+
+c. Pindah alamat tidak diketahui | JUMLAH: [kosong]
+
+d. Usia lebih dari 60 Tahun | JUMLAH: [kosong]
+
+e. Dobel Bantuan (Anggaran APBD Kabupaten/ Kota) | JUMLAH: [kosong]
+
+f. Keterangan Lainnya: .... | JUMLAH: [kosong]
+
+URAIAN: Total Penyandang Disabilitas Penerima Manfaat (PM) yang tersalurkan dan tidak tersalurkan | JUMLAH: [kosong]
+
+Demikian Berita Acara Penyaluran Bantuan Sosial untuk Penyandang Disabilitas Program Asistensi Sosial Penyandang Disabilitas (ASPD) Tahun 2026 ini dibuat, dan dinyatakan kebenarannya dan siap untuk diproses lebih lanjut.
+
+Tim Pelaksana,
+................, .................. 2026
+
+Kepala Bidang ../ Sub Koordinator..
+(NAMA)
+NIP................................
+
+PT. Bank Pembangunan Daerah
+Jawa Timur Cabang ...........
+STEMPEL
+(NAMA)
+NIP................................
+
+Koordinator Pendamping Disabilitas
+(NAMA)
+
+Kepala Dinas Sosial
+Kabupaten/Kota ...........
+STEMPEL
+(NAMA)
+NIP................................

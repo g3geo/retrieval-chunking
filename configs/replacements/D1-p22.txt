@@ -1,0 +1,29 @@
+DAFTAR LAMPIRAN
+
+Lampiran-1: Formulir Validasi Calon Penerima Manfaat
+
+FORMAT USULAN PENERIMA PKH PLUS
+
+Kolom formulir (sesuai urutan sumber):
+1. NO
+2. NO DTKS
+3. NO PKH
+4. NAMA PENGURUS
+5. NAMA LANSIA
+6. NIK LANSIA
+7. NAMA IBU KANDUNG
+8. TEMPAT LAHIR
+9. TANGGAL LAHIR
+10. UMUR
+11. JENIS KELAMIN
+12. ALAMAT
+13. KELURAHAN
+14. KECAMATAN
+15. KABUPATEN
+16. NO REK BANK JATIM
+17. NAMA PENDAMPING
+
+Baris NO: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15. Sel isian kolom 2 sampai 17 pada setiap baris: [kosong].
+
+Keterangan:
+No Rek Bank Jatim Khusus untuk KPM Lansia Eksisting

@@ -1,0 +1,25 @@
+Lampiran 4: Formulir Kontrol Pencairan Bansos ASPD
+
+FORMULIR KONTROL PENCAIRAN BANTUAN SOSIAL UNTUK PENYANDANG DISABILITAS
+PROGRAM ASISTENSI SOSIAL PENYANDANG DISABILITAS (ASPD)
+TAHUN 2026
+
+KABUPATEN: [kosong]
+KECAMATAN: [kosong]
+TGL PENCAIRAN: [kosong]
+TEMPAT PENCAIRAN: [kosong]
+
+Kolom formulir (sesuai urutan sumber): NO | NAMA | NIK | NO REKENING | STATUS PENCAIRAN - DIWAKILKAN | STATUS PENCAIRAN - JUMLAH | STATUS PENCAIRAN - SALDO | TANDA TANGAN/CAP JEMPOL.
+
+Baris NO: 1, 2, 3, 4, 5, 6, Dst..... . Sel isian kolom 2 sampai 8 pada setiap baris: [kosong].
+
+Mengetahui,
+Petugas Bank Jatim
+STEMPEL
+(Nama)
+NIP................................
+
+Dilaporkan oleh: Koordinator Pendamping Disabilitas
+Pada tanggal: ......................... 2026
+(Nama)
+NIK................................

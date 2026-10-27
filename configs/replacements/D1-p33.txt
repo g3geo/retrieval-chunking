@@ -1,0 +1,30 @@
+Lampiran-12: Berita Acara Rekonsiliasi Penyaluran Dana Bantuan Sosial PKH Plus Tingkat Kabupaten/Kota
+
+BERITA ACARA
+REKONSILIASI PENYALURAN DANA BANTUAN SOSIAL PKH PLUS
+
+Pada hari ini, ............... tanggal ......... bulan ................. tahun 2026 telah dilaksanakan Rekonsiliasi Penyaluran Dana Bantuan sosial PKH Plus Tahap ..... di Kantor Cabang Bank Jatim .............., dengan hasil berikut:
+
+Kolom formulir (sesuai urutan sumber):
+NO | KECAMATAN | DATA SP2D - KPM (Orang) | DATA SP2D - Nominal (Rp.) | REKAP PENYALURAN DANA BANTUAN SOSIAL - KPM (Orang) | REKAP PENYALURAN DANA BANTUAN SOSIAL - Nominal (Rp.) | KPM TIDAK MELAKUKAN PENYALURAN DANA BANTUAN SOSIAL - Meninggal Dunia | KPM TIDAK MELAKUKAN PENYALURAN DANA BANTUAN SOSIAL - Tidak Hadir | KPM TIDAK MELAKUKAN PENYALURAN DANA BANTUAN SOSIAL - Jumlah
+
+Baris NO: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Sel isian kolom 2 sampai 9 pada setiap baris: [kosong].
+JUMLAH: seluruh sel jumlah pada kolom 3 sampai 9 [kosong].
+
+Kabupaten/Kota, ....../...... / 2026
+
+Tim Pelaksana PKH Plus Kabupaten/Kota,
+1. Korkab/Korkot - 1 (...........................)
+2. Korkab/Korkot - 2 (...........................)
+3. Korkab/Korkot - 3 (...........................)
+4. Korkab/Korkot - 4 (...........................)
+
+Kepala Cabang Bank Jatim
+........................................
+
+Mengetahui,
+An. Kepala Dinas Sosial
+Kepala Bidang Perlindungan dan Jaminan Sosial
+Kabupaten/Kota
+..............................................
+NIP. ........................................

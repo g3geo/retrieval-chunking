@@ -1,0 +1,76 @@
+# Overrides below were compared with rendered source PDF pages on 2026-10-13.
+# Replacement files preserve substantive text and table relationships once.
+# [kosong] means an empty printed form cell, never a zero or an inferred value.
+defaults:
+  method: auto
+  ocr_min_nonspace_chars: 40
+  ocr_dpi: 300
+  ocr_language: ind
+  tesseract_cmd: C:/Program Files/Tesseract-OCR/tesseract.exe
+  poppler_path: C:/Users/ravel/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/poppler/Library/bin
+  header_patterns: []
+  footer_patterns: []
+documents:
+  D1:
+    source_sha256: 849b664b6b0199220eed4cb8658ba710f36df42c3b21d1c5851f4fd384f1077f
+    method: auto
+    pages:
+      4:
+        include: false
+        reason: Daftar isi dan indeks lampiran; halaman lampiran substantif tetap disertakan.
+      7: {replacement_text_file: configs/replacements/D1-p07.txt}
+      8: {replacement_text_file: configs/replacements/D1-p08.txt}
+      10: {replacement_text_file: configs/replacements/D1-p10.txt}
+      11: {replacement_text_file: configs/replacements/D1-p11.txt}
+      13: {replacement_text_file: configs/replacements/D1-p13.txt}
+      14: {replacement_text_file: configs/replacements/D1-p14.txt}
+      15: {replacement_text_file: configs/replacements/D1-p15.txt}
+      17: {replacement_text_file: configs/replacements/D1-p17.txt}
+      18: {replacement_text_file: configs/replacements/D1-p18.txt}
+      21: {replacement_text_file: configs/replacements/D1-p21.txt}
+      22: {replacement_text_file: configs/replacements/D1-p22.txt}
+      25: {replacement_text_file: configs/replacements/D1-p25.txt}
+      28: {replacement_text_file: configs/replacements/D1-p28.txt}
+      29: {replacement_text_file: configs/replacements/D1-p29.txt}
+      30: {replacement_text_file: configs/replacements/D1-p30.txt}
+      31: {replacement_text_file: configs/replacements/D1-p31.txt}
+      32: {replacement_text_file: configs/replacements/D1-p32.txt}
+      33: {replacement_text_file: configs/replacements/D1-p33.txt}
+      34: {replacement_text_file: configs/replacements/D1-p34.txt}
+      35: {replacement_text_file: configs/replacements/D1-p35.txt}
+  D2:
+    source_sha256: 39894a70738ce2ce650c51790333a77bf90f68904f6a4b90c2a8f6dbf1b3b57e
+    method: ocr
+    pages:
+      26: {replacement_text_file: configs/replacements/D2-p26.txt}
+      27: {replacement_text_file: configs/replacements/D2-p27.txt}
+      28: {replacement_text_file: configs/replacements/D2-p28.txt}
+  D3:
+    source_sha256: 9336cf793e918c6dc5d5a726661c790ba5f2641264f8b89f39b2c7d7cd941216
+    method: ocr
+    pages: {}
+  D4:
+    source_sha256: 0073b3270c072fe7a23da93cf1bb0dc889c3ebfb3485ababf62cbc49e0766f65
+    method: auto
+    pages:
+      3: {replacement_text_file: configs/replacements/D4-p03.txt}
+  D5:
+    source_sha256: cbf80f1f5ae82f883b3dbd4df58a7920e91b0b04465e4bdf2e6ee8bdebb82060
+    method: auto
+    pages:
+      6: {replacement_text_file: configs/replacements/D5-p06.txt}
+  D6:
+    source_sha256: feccb276bea4e19928ae16ea59ffa15a95d037d113e1d99ae28b8027fda9ea54
+    method: auto
+    pages:
+      1: {replacement_text_file: configs/replacements/D6-p01.txt}
+      4: {replacement_text_file: configs/replacements/D6-p04.txt}
+  D7:
+    source_sha256: fd8ae84e0872336c5d81974bf3f1e82ff21200e9448c4640074780f73267bbbd
+    method: auto
+    pages: {}
+  D8:
+    source_sha256: e80aeb92e86526bb02255d78c58658cd27a344bebe1b7fa032049feee165310c
+    method: auto
+    pages: {}
+

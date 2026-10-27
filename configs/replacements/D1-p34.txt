@@ -1,0 +1,38 @@
+Lampiran-13: Berita Acara Pengembalian Bantuan Sosial PKH Plus
+
+KOP DINAS
+
+BERITA ACARA
+BNBA DATA YANG TIDAK TERSALURKAN
+PROGRAM JAMINAN SOSIAL LANJUT USIA
+TAHUN ANGGARAN 2019
+
+Pada hari ini..., Tanggal ...Bulan ..... Tahun 2019 telah memverifikasi data yang tidak tersalurkan Bantuan Sosial Program Jaminan Sosial Lanjut Usia dengan rincian sebagai berikut:
+
+Kolom formulir (sesuai urutan sumber):
+NO | KECAMATAN | PEMINDAH BUKUAN (SP2D) - KPM | PEMINDAH BUKUAN (SP2D) - JUMLAH BANTUAN | REALISASI (TERSALURKAN) - KPM | REALISASI (TERSALURKAN) - JUMLAH BANTUAN | TIDAK TERSALURKAN - KPM | TIDAK TERSALURKAN - JUMLAH BANTUAN
+
+Baris NO: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Sel isian kolom 2 sampai 8 pada setiap baris: [kosong].
+JUMLAH: seluruh sel jumlah pada kolom 3 sampai 8 [kosong].
+
+Dengan jumlah rekapitulasi data sebagai berikut (BNBA terlampir):
+
+KETERANGAN: 1. Jumlah Lansia Penerima Manfaat Yang Tersalurkan | JUMLAH: [kosong]
+
+KETERANGAN: 2. Jumlah Lansia Penerima Manfaat Non Eligible/Tidak Tersalurkan | JUMLAH: [kosong]
+
+a. Data Duplikasi | JUMLAH: [kosong]
+
+b. Meninggal Dunia | JUMLAH: [kosong]
+
+c. Mampu Ekonomi | JUMLAH: [kosong]
+
+d. Pindah Alamat | JUMLAH: [kosong]
+
+e. Belum Lansia | JUMLAH: [kosong]
+
+f. Lansia Tanpa Komponen Faskes/Fasdik (komponen Tunggal | JUMLAH: [kosong]
+
+g. NF PKH Reguler | JUMLAH: [kosong]
+
+Total Lansia Penerima Manfaat (Tersalurkan + Tidak Tersalurkan) | JUMLAH: [kosong]

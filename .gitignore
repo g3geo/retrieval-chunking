@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+data/clean/
+data/cache/
+data/chunks/
+data/indexes/
+data/results/
+data/tmp/
+data/review/
+data/inspection/
+

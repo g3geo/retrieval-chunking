@@ -1,0 +1,30 @@
+seed: 42
+corpus: configs/corpus.yaml
+cleaning: configs/cleaning.yaml
+data_dir: data
+embedding:
+  model: intfloat/multilingual-e5-small
+  # Verified concrete checkpoint from the official model commit history.
+  revision: fd1525a9fd15316a2d503bf26ab031a61d056e98
+  dimension: 384
+  max_input_tokens: 512
+  passage_prefix: "passage: "
+  query_prefix: "query: "
+  normalize: true
+  dtype: float32
+  device: cpu
+  batch_size: 32
+semantic:
+  sentence_prefix: "query: "
+  buffer_size: 0
+  threshold_type: percentile
+  cache_enabled: true
+chunking:
+  C1: {strategy: fixed, max_input_tokens: 256, overlap_tokens: 50}
+  C2: {strategy: fixed, max_input_tokens: 512, overlap_tokens: 50}
+  C3: {strategy: paragraph, overlap_tokens: 0, merge_short: false}
+  C4: {strategy: semantic, percentile: 95, overlap_tokens: 0}
+  C5: {strategy: semantic, percentile: 80, overlap_tokens: 0}
+retrieval:
+  top_k: 10
+

@@ -1,0 +1,21 @@
+# Paths are relative to the research workspace, not this application.
+source_root: ../..
+expected_total_pages: 172
+documents:
+  - doc_id: D1
+    path: pdf_juknis/JUKNIS PKH PLUS 2026.pdf
+  - doc_id: D2
+    path: pdf_juknis/Juklak ASPD Tahun 202620260225_12303533_01.pdf
+  - doc_id: D3
+    path: pdf_juknis/PETUNJUK TEKNIS KIP PUTRI JAWARA.pdf
+  - doc_id: D4
+    path: pdf_input/Keputusan Menteri Sosial Republik Indonesia Nomor 186HUK2022 tentang Pelaksanaan Program Sembako dan Program Keluarga Harapan.pdf
+  - doc_id: D5
+    path: pdf_input/Permensos Nomor 20 Tahun 2017.pdf
+  - doc_id: D6
+    path: pdf_input/kepmensos 22 2026.pdf
+  - doc_id: D7
+    path: pdf_input/Perpres Nomor 163 Tahun 2024.pdf
+  - doc_id: D8
+    path: pdf_input/UU Nomor 11 Tahun 2009.pdf
+

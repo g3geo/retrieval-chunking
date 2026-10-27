@@ -1,0 +1,20 @@
+Lampiran-9: Formulir Kontrol Dana Penyaluran Bantuan Sosial PKH Plus
+
+FORMULIR KONTROL PENYALURAN BANTUAN SOSIAL PKH PLUS
+
+NAMA KABUPATEN: [kosong]
+NAMA KECAMATAN: [kosong]
+TGL PENYALURAN: [kosong]
+TEMPAT PENYALURAN: [kosong]
+
+Kolom formulir (sesuai urutan sumber): NO | NAMA | NIK | NO. REKENING | STATUS PENYALURAN - DIWAKILKAN | STATUS PENYALURAN - JML PENYALURAN | STATUS PENYALURAN - SALDO | TANDA TANGAN/CAP JARI.
+
+Seluruh sel isian pada 22 baris formulir: [kosong].
+
+Mengetahui,
+Petugas Bank Jatim
+(......................................................)
+
+Dilaporkan Oleh: [kosong]
+Pada Tanggal: [kosong]
+(......................................................)
